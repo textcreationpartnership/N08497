@@ -113,8 +113,9 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:010867_0000_0F857D3D2295E990"/>
-            <pb facs="tcp:010867_0001_0F857D3DE4481600" rendition="simple:additions"/>
+            <pb facs="unknown:010867_0000_0F857D3D2295E990"/>
+            <pb facs="unknown:010867_0001_0F857D3DE4481600"
+                rendition="simple:additions"/>
             <head>A Copy of a LETTER from a GENTLEMAN <gap reason="illegible" resp="#UOM" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
@@ -158,7 +159,7 @@
                      <desc>〈◊〉</desc>
                   </gap>,</hi> will deſtroy our Civil Exiſtence.</p>
             <p>"It is, certainly, a moſt cruel Dilemma, to be obliged to ſacrifice every Thing that is moſt dear and valuable among Men, or to contend with our Mother Country.—But let us not, in this Caſe, diſtinguiſh Great-Britain from any other Power — To
-<pb facs="tcp:010867_0002_0F857D3EA8DC6748"/>Freemen it muſt be different, who their Oppreſſors are—If Britons oppreſs us, and ſtrive might and main to enſlave us—all pretended Ties of ancient Favours, Friendſhip, Duty, are deſtroyed: G—B —, France, or any Power on Earth, purſuing the ſame Meaſures, ought indiſcriminately to be oppoſed.—I ſhall conclude this Letter with an hiſtorical Fact very appli<g ref="char:EOLhyphen"/>cable to the preſent Subject.</p>
+<pb facs="unknown:010867_0002_0F857D3EA8DC6748"/>Freemen it muſt be different, who their Oppreſſors are—If Britons oppreſs us, and ſtrive might and main to enſlave us—all pretended Ties of ancient Favours, Friendſhip, Duty, are deſtroyed: G—B —, France, or any Power on Earth, purſuing the ſame Meaſures, ought indiſcriminately to be oppoſed.—I ſhall conclude this Letter with an hiſtorical Fact very appli<g ref="char:EOLhyphen"/>cable to the preſent Subject.</p>
             <p>"The Privernates had been ſeveral Times ſubdued by the Romans, and had as often revolted; but their City was at laſt retaken by the Conſul Plautius—In theſe diſtreſſed Circumſtances they ſent Ambaſſadors to Rome, to ſue for Peace—Upon a Senator's aſking them what Puniſhment they thought they deſerved; one of them anſwered, 'That which is due to Men who think themſelves worthy of Liberty.' Then the Conſul aſked them, whether there was any Room to hope, that they would obſerve the Peace, if their Fault was pardoned? 'The peace ſhall be perpetual between us,' replied the Ambaſſador, "and we ſhall faithfully obſerve it, if the Conditions you lay upon us are <hi>juſt</hi> and <hi>reaſonable;</hi> but if they are <hi>hard</hi> and <hi>diſhonorable,</hi> the peace will not be of long Continuance, and we ſhall very ſoon break it.'</p>
             <p>"Though ſome of the Senators were offended at this Anſwer, yet moſt of them approved of it, and ſaid that 'it was worthy of a <hi>Man</hi> and of a Man that was <hi>born free:</hi>' acknowledging therefore the Force of the Rights of human Nature, they cried out, that 'thoſe alone deſerved to be Citizens of Rome, <hi>who eſteemed nothing in compariſon of Liberty.</hi>' Thus the very Perſons, who were at firſt threatned with Puniſhment, were admitted to the Rights of Citizens, and obtained the Conditions they wanted; the generous Refuſal of the Privernates to comply with the Terms of a diſhonourable Treaty, gained them the Privilege of being incorporated into a State, which at that Time could boaſt of the braveſt, and moſt virtuous Subjects in the Univerſe."</p>
          </div>
